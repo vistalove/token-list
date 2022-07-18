@@ -14,7 +14,39 @@
       "symbol": "nuwa",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_nuwa.png"
-    } 
+    },
+     {
+      "chainId": 56,
+      "address": "0x9dc53535c562f257b457911b048252231c786ea2",
+      "name": "MS",
+      "symbol": "MS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_ms.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "BSC-USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+      "name": "Fist",
+      "symbol": "FIST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_fist.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+      "name": "OSK",
+      "symbol": "OSK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_osk.png"
+    }
   ],
   "version": {
     "major": 2,
