@@ -1,5 +1,5 @@
 {
-  "name": "NUWASWAP Default List",
+  "name": "NUWASWAP List",
   "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_nuwa.png",
   "keywords": [
     "NUWASWAP",
@@ -26,7 +26,7 @@
     {
       "chainId": 56,
       "address": "0x55d398326f99059ff775485246999027b3197955",
-      "name": "Binance-Peg BSC-USD",
+      "name": "BSC-USD",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
@@ -50,7 +50,7 @@
     {
       "chainId": 56,
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "name": "Binance-Peg Ethereum",
+      "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_eth.png"
@@ -58,7 +58,7 @@
     {
       "chainId": 56,
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-      "name": "Binance-Peg BTCB",
+      "name": "BTCB",
       "symbol": "BTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_btc.png"
@@ -66,7 +66,7 @@
     {
       "chainId": 56,
       "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
-      "name": "Binance-Peg Filecoin",
+      "name": "Filecoin",
       "symbol": "FIL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_fil.png"
@@ -74,7 +74,7 @@
     {
       "chainId": 56,
       "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-      "name": "Binance-Peg Dogecoin",
+      "name": "Dogecoin",
       "symbol": "DOGE",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_doge.png"
@@ -82,7 +82,7 @@
     {
       "chainId": 56,
       "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
-      "name": "Binance-Peg SHIBA",
+      "name": "SHIBA",
       "symbol": "SHIB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_shib.png"
@@ -90,7 +90,7 @@
     {
       "chainId": 56,
       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
-      "name": "Binance-Peg XRP",
+      "name": "XRP",
       "symbol": "XRP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_xrp.png"
