@@ -1,0 +1,120 @@
+{
+  "name": "NUWASWAP Default List",
+  "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_nuwa.png",
+  "keywords": [
+    "NUWASWAP",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x4F7f517BeA79b3fa8B672287D184C5BDB4b08628",
+      "name": "nuwa",
+      "symbol": "nuwa",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_nuwa.png"
+    },
+   {
+      "chainId": 56,
+      "address": "0x9dc53535c562f257b457911b048252231c786ea2",
+      "name": "MS",
+      "symbol": "MS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_ms.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "Binance-Peg BSC-USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+      "name": "Fist",
+      "symbol": "FIST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_fist.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+      "name": "OSK",
+      "symbol": "OSK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_osk.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "name": "Binance-Peg Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_eth.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "name": "Binance-Peg BTCB",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_btc.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "name": "Binance-Peg Filecoin",
+      "symbol": "FIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_fil.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "name": "Binance-Peg Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_doge.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+      "name": "Binance-Peg SHIBA",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_shib.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "name": "Binance-Peg XRP",
+      "symbol": "XRP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_xrp.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_dot.png"
+    },  
+    {
+      "chainId": 56,
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "name": "Cake",
+      "symbol": "Cake",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_cake.png"
+    },  
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
