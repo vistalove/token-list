@@ -109,7 +109,7 @@
       "name": "Binance-Peg BSC-USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
     }
   ],
   "version": {
