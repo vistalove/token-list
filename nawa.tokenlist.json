@@ -7,6 +7,14 @@
   ],
   "timestamp": "2022-05-27T20:37:00.000+00:00",
   "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xad76Db17f7b3f641a930a3Ae7ae984da9452F1f3",
+      "name": "nuwa",
+      "symbol": "nuwa",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_nuwa.png"
+    },
    {
       "chainId": 56,
       "address": "0x9dc53535c562f257b457911b048252231c786ea2",
