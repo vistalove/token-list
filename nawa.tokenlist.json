@@ -5,7 +5,7 @@
     "NUWASWAP",
     "defi"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "timestamp": "2022-05-27T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 56,
@@ -22,14 +22,6 @@
       "symbol": "MS",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_ms.png"
-    },
-    {
-      "chainId": 56,
-      "address": "0x55d398326f99059ff775485246999027b3197955",
-      "name": "Binance-Peg BSC-USD",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
     },
     {
       "chainId": 56,
@@ -110,7 +102,15 @@
       "symbol": "Cake",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_cake.png"
-    }  
+    },
+     {
+      "chainId": 56,
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "Binance-Peg BSC-USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
+    }
   ],
   "version": {
     "major": 0,
