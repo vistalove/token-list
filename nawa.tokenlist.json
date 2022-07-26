@@ -103,13 +103,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_cake.png"
     },
-     {
+   {
       "chainId": 56,
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "name": "Binance-Peg BSC-USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/vistalove/token-list/main/images/currency_usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
   ],
   "version": {
